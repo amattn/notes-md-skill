@@ -1,0 +1,21 @@
+{
+  "name": "notes-md-marketplace",
+  "owner": {
+    "name": "amattn"
+  },
+  "metadata": {
+    "description": "Living development notes as institutional memory for multi-session AI-assisted development. Maintains a NOTES.md file that captures design decisions, rationale, rejected alternatives, user insights, invariants, and conventions.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "notes-md-skill",
+      "source": "./",
+      "description": "Living development notes as institutional memory for multi-session AI-assisted development. Maintains a NOTES.md file that captures design decisions, rationale, rejected alternatives, user insights, invariants, and conventions.",
+      "version": "0.1.0",
+      "keywords": ["notes", "institutional-memory", "memory", "decisions", "context", "multi-session", "NOTES.md"],
+      "category": "productivity",
+      "skills": "./skills/"
+    }
+  ]
+}

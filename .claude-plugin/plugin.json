@@ -1,0 +1,10 @@
+{
+  "name": "notes-md-skill",
+  "version": "0.1.0",
+  "description": "Living development notes as institutional memory for multi-session AI-assisted development. Maintains a NOTES.md file that captures design decisions, rationale, rejected alternatives, user insights, invariants, and conventions.",
+  "author": {
+    "name": "amattn"
+  },
+  "skills": "./skills/",
+  "keywords": ["notes", "institutional-memory", "memory", "decisions", "context", "multi-session", "NOTES.md"]
+}
